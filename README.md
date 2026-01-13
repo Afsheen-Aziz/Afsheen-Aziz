@@ -6,11 +6,11 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:afsheenonnar@gmail.com" class="chip email">iamafnash@gmail.com</a>
+  <a href="mailto:afsheenonnar@gmail.com" class="chip email">afsheenonnar@gmail.com</a>
   <a href="https://afsheenaziz.vercel.app/" target="_blank" class="chip portfolio">Portfolio</a>
-  <a href="https://github.com/afsheen" target="_blank" class="chip github">GitHub @afsheen</a>
+  <a href="https://github.com/Afsheen-Aziz" target="_blank" class="chip github">GitHub @afsheen</a>
   <a href="https://linkedin.com/in/afsheen-aziz-020899281" target="_blank" class="chip linkedin">LinkedIn</a>
-  <a href="tel:+917902981323" class="chip phone">+91-7902981323</a>
+  <a href="tel:+919207024247" class="chip phone">+91-9207024247</a>
 </p>
 
 ---
@@ -46,14 +46,14 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afsheen&show_icons=true&locale=en&layout=compact" alt="afsheen" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afsheen-Aziz&show_icons=true&locale=en&layout=compact" alt="afsheen" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsheen&show_icons=true&locale=en" alt="afsheen" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afsheen-Aziz&show_icons=true&locale=en" alt="afsheen" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsheen" alt="afsheen" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsheen-Aziz" alt="afsheen" />
 </p>
 
